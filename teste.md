@@ -1,4 +1,4 @@
-# Gabaritook
+# Gabaritooka
 ## Avaliação 1
 ### Artes
 1. A
