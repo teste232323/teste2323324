@@ -1,0 +1,24 @@
+name: Bug report
+description: Report incorrect or unexpected behavior of a package
+labels: [bug, need repro]
+body:
+  - type: dropdown
+    id: package
+    attributes:
+      label: aaa?
+      options:
+        - a
+        - b
+        - c
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue description
+      description: |
+        asas
+      placeholder: |
+       aa
+    validations:
+      required: true
